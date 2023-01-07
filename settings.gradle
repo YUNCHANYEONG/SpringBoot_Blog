@@ -1,0 +1,6 @@
+rootProject.name = 'bootProject'
+include 'module-batch'
+include 'module-admin'
+include 'module-web'
+include 'module-core'
+
